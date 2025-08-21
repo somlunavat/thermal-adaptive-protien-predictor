@@ -1,0 +1,14 @@
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env/
+.ipynb_checkpoints/
+*.log
+*.tmp
+checkpoints/
+tb_logs/
+*.csv
+*.xlsx
